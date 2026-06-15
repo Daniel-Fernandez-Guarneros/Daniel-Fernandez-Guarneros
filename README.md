@@ -1,5 +1,4 @@
-# 💫 Acerca de mi:
-Mi nombre es Daniel Fernandez Guarneros, soy Ingeniero en Desarrollo y Gestión de Software y Desarrollador Fullstack en diferentes tecnologías
+# 💫 Acerca de mí Soy **Daniel Fernandez Guarneros**, Ingeniero en Desarrollo y Gestión de Software y **Desarrollador Full Stack** enfocado en la construcción de aplicaciones empresariales con **Java, JavaScript, TypeScript, HTML, CSS, Next.js, Express, Nest.js, Spring Boot, React, React Native, CodeIgniter, Angular, Laravel, Flutter, Dart, Php, Python, MySQL, MongoDB, PostgreSQL**. Actualmente me especializo en: - APIs REST seguras - Interfaces modernas y responsivas con  - Diseño y optimización de bases de datos relacionales - Pruebas, calidad de código y despliegue con contenedores. He participado en proyectos gubernamentales, empresas de logística, cobranza y sistemas administrativos, desarrollando soluciones escalables y orientadas a negocio.
 
 
 ## 🌐 Redes Sociales:
