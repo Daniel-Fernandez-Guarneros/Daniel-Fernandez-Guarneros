@@ -1,5 +1,5 @@
-# 💫 Acerca de mí Soy 
-**Daniel Fernandez Guarneros**, Ingeniero en Desarrollo y Gestión de Software y **Desarrollador Full Stack** enfocado en la construcción de aplicaciones empresariales con **Java, JavaScript, TypeScript, HTML, CSS, Next.js, Express, Nest.js, Spring Boot, React, React Native, CodeIgniter, Angular, Laravel, Flutter, Dart, Php, Python, MySQL, MongoDB, PostgreSQL**.
+# 💫 Acerca de mí 
+Soy **Daniel Fernandez Guarneros**, Ingeniero en Desarrollo y Gestión de Software y **Desarrollador Full Stack** enfocado en la construcción de aplicaciones empresariales con **Java, JavaScript, TypeScript, HTML, CSS, Next.js, Express, Nest.js, Spring Boot, React, React Native, CodeIgniter, Angular, Laravel, Flutter, Dart, Php, Python, MySQL, MongoDB, PostgreSQL**.
 
 Actualmente me especializo en: 
 -  APIs REST seguras - Interfaces modernas y responsivas con
